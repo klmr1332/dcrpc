@@ -1,0 +1,10 @@
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\bin\Debug\rich-presence-demo.exe.config
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\bin\Debug\rich-presence-demo.exe
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\bin\Debug\rich-presence-demo.pdb
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich-presence-demo.csprojAssemblyReference.cache
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich_presence_demo.Form1.resources
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich_presence_demo.Properties.Resources.resources
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich-presence-demo.csproj.GenerateResource.cache
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich-presence-demo.csproj.CoreCompileInputs.cache
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich-presence-demo.exe
+D:\All Projects\C#\Forms\rich-presence-demo\rich-presence-demo\obj\Debug\rich-presence-demo.pdb

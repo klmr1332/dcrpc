@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rich-presence-demo", "rich-presence-demo\rich-presence-demo.csproj", "{CC4B6939-9DF7-46D8-8565-9C0CFEDEDDBD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC4B6939-9DF7-46D8-8565-9C0CFEDEDDBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC4B6939-9DF7-46D8-8565-9C0CFEDEDDBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC4B6939-9DF7-46D8-8565-9C0CFEDEDDBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC4B6939-9DF7-46D8-8565-9C0CFEDEDDBD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A783C80-8282-45B9-A3AC-3D929272CC4A}
+	EndGlobalSection
+EndGlobal
